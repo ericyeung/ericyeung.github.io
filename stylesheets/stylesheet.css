@@ -103,7 +103,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #0066FF;  /* 007edf */
+  color: #007edf;  /* 007edf */
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -246,7 +246,7 @@ th {
 
 td {
   padding: 10px;
-  border: 1px solid #373737;
+  border: 1px solid #0066FF; /* 373737 */
  }
 
 form {
