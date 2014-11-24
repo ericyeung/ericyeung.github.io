@@ -246,7 +246,7 @@ th {
 
 td {
   padding: 10px;
-  border: 1px solid #0066FF; /* 373737 */
+  border: 1px solid #373737; /* 373737 */
  }
 
 form {
@@ -286,11 +286,11 @@ Full-Width Styles
 
 #header_wrap {
   background: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(top, #373737, #212121);
+  background: -moz-linear-gradient(top, #0099FF, #33CCCC); /* 373737, 212121 */
+  background: -webkit-linear-gradient(top, #0099FF, #33CCCC); /* 373737, 212121 */
+  background: -ms-linear-gradient(top, #0099FF, #33CCCC); /* 373737, 212121 */
+  background: -o-linear-gradient(top, #0099FF, #33CCCC); /* 373737, 212121 */
+  background: linear-gradient(top, #0099FF, #33CCCC); /* 373737, 212121 */
 }
 
 #header_wrap .inner {
