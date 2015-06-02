@@ -1,1 +1,1 @@
-Amateur website made solely with [Github Pages]:https://pages.github.com/. 
+Amateur website made solely with [Github Pages](https://pages.github.com/). 
