@@ -695,19 +695,19 @@ dt {
 }
 
 #header {
-  z-index: 100;
-  left: 0;
-  top: 0px;
-  height: 60px;
-  width: 100%;
-  position: fixed;
-  background: url(../images/nav-bg.gif) #353535;
-  border-bottom: 4px solid #434343;
-  -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  -o-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
-  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+  url(../images/header.jpg) repeat-x scroll right top transparent;
+  background-image: url(https://a.thumbs.redditmedia.com/AoYsJgK6Ilw_z3d_BfU_niyJsHErntnaeW9H5eVTRo8.png);
+  background-position-x: 100%;
+  background-position-y: 0%;
+  background-size: initial;
+  background-repeat-x: repeat;
+  background-repeat-y: no-repeat;
+  background-attachment: scroll;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: transparent;
 }
+
 #header nav {
   max-width: 650px;
   margin: 0 auto;
