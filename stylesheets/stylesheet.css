@@ -294,8 +294,10 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  padding: 50px 100px 100px 500px;
+  background: url(../images/header.jpg);
 }
+
 
 #project_title {
   margin: 0;
