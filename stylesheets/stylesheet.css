@@ -277,8 +277,8 @@ Full-Width Styles
   z-index: 10;
   padding: 8px 12px 8px 8px;
   color: #fff;
-  background: /* url('../images/blacktocat.png') */#FF5050 no-repeat 95% 50%; 
-  font-weight: 700;
+  background: /* url('../images/blacktocat.png') */#3399FF no-repeat 55% 50%; 
+  font-weight: 300;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
@@ -294,7 +294,7 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 800px 10px 500px;
+  padding: 50px 590px 10px 500px;
   background: url(../images/header.jpg);
 }
 
