@@ -1,0 +1,10 @@
+function dh = harmonic(t,h)
+q0 = 10; % initial position
+p0 = 20; % initial momentum
+k = 30; % spring constant
+m = 40; % mass
+omega = sqrt(k/m); % define the natural frequency
+tstep = 50; % timestep or "tspan"
+dh = zeros(2,1);
+dh(1) = -k*h(2);
+dh(2) = h(1)/m;
